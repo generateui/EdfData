@@ -1,0 +1,1 @@
+EdfData is a fork from jEDF: http://www.ltim.org/membres/kerkeni/jEDF.php. It only has the logic to load/save data to EDF files, the UI code is removed for clean seperation of concerns.
